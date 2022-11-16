@@ -11,7 +11,7 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Table of Content
 
 ## Table of contents
-- [About](#about)
+- [About](## About)
 - [Portfolio Projects](#portfolio-projects)
 	+ [Video Games Sales Analysis](#video-games-sales-analysis)
 	+ [A Mobile Game Data Analysis](#a-mobile-game-data-analysis)
