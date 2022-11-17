@@ -8,8 +8,6 @@ I have a finance background and currently pursuing a Master of Science (M.S.) de
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
-## Table of Content
-
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
