@@ -34,8 +34,11 @@ This is a repository to showcase skills, share projects and track my progress in
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Credit Risk Analytics
-**Code:** [`FinalProject_Group2_HomeEquity`](https://github.com/namdang23/data_analysis_portfolio/blob/00960e672b4b3e297e512ed3aa2f45bca24c8dbe/Project%20code/FinalProject_Group2_HomeEquity.R)    
+**Code:** [`HomeEquity.R`](https://github.com/namdang23/data_analysis_portfolio/blob/00960e672b4b3e297e512ed3aa2f45bca24c8dbe/Project%20code/FinalProject_Group2_HomeEquity.R), [`MortgageLoan.R`](https://github.com/namdang23/data_analysis_portfolio/blob/831b40279df3dd8064fdda46cd7ac84d941f3205/Project%20code/FinalProject_Group2_MortgageLoan.R),
+[`MortgageLoan_DeepLearning`](https://github.com/namdang23/data_analysis_portfolio/blob/831b40279df3dd8064fdda46cd7ac84d941f3205/Project%20code/FinalProject_Group2_MortgageLoan_DeepLearning.ipynb),[`HomeEquity_DeepLearning`](https://github.com/namdang23/data_analysis_portfolio/blob/75d15bc3d086f1019f348d502eab84fb0aefc351/Project%20code/FinalProject_Group2_HomeEquity_DeepLearning.ipynb)
+
 **Description:** In this project, I had a chance to work with 2 datasets related to Mortgage Loan. The scope of this report is to explore and analyze past data on residential mortgage loans and residential equity loans to get a better understanding of customer creditworthiness. We utilized analytical tools such as Cluster Analysis, Decision Trees, K-Nearest Neighbor, Support Vector Machines, and Deep Neural Networks. Among all the prediction, models we found that Deep Neural Networks give us the best results for both residential mortgage loan data set and residential equity loan data set  
+
 **Skills:** data cleaning, data analysis, descriptive statistics, deep learning, classification, data visualization.  
 
 
