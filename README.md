@@ -34,11 +34,10 @@ This is a repository to showcase skills, share projects and track my progress in
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Credit Risk Analytics
-**Code:** [`video_games_sales.ipynb`](https://github.com/nktnlx/data_analysis_portfolio/blob/main/video_games_sales.ipynb)    
-**Description:** In this project, I had a chance to work with 2 datasets. One is with the Mortgage loan daaThere is a list of video games with sales (by region), year of release, platform, critics and users score. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, measuring statistical factors, hypothesis testing.  
-**Skills:** data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.  
-**Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.  
-**Results:** Review of the global and regional video games markets, data-based business recommendations.  
+**Code:** [`FinalProject_Group2_HomeEquity`](https://github.com/namdang23/data_analysis_portfolio/blob/00960e672b4b3e297e512ed3aa2f45bca24c8dbe/Project%20code/FinalProject_Group2_HomeEquity.R)    
+**Description:** In this project, I had a chance to work with 2 datasets related to Mortgage Loan. The scope of this report is to explore and analyze past data on residential mortgage loans and residential equity loans to get a better understanding of customer creditworthiness. We utilized analytical tools such as Cluster Analysis, Decision Trees, K-Nearest Neighbor, Support Vector Machines, and Deep Neural Networks. Among all the prediction, models we found that Deep Neural Networks give us the best results for both residential mortgage loan data set and residential equity loan data set  
+**Skills:** data cleaning, data analysis, descriptive statistics, deep learning, classification, data visualization.  
+
 
 ### A Mobile Game Data Analysis
 **Code:** [`final_project.ipynb`](https://github.com/nktnlx/data_analysis_course/blob/main/37_final_project/final_project.ipynb)    
