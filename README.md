@@ -67,11 +67,9 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### A/B Testing for CCG Advertisement
 
-**Presentation:** [`MKTG-607 Final Presentation.pdf`]
-(https://github.com/namdang23/data_analysis_portfolio/blob/27fd966701b36f1829e9891dab89a55a075c000c/Presentation/MKTG-607%20Final%20Presentation.pdf) 
+**Presentation:** [`MKTG-607 Final Presentation.pdf`](https://github.com/namdang23/data_analysis_portfolio/blob/27fd966701b36f1829e9891dab89a55a075c000c/Presentation/MKTG-607%20Final%20Presentation.pdf) 
 
-**Report:** [`MKTG 607 - Group 3 - Project Report.pdf`]
-(https://github.com/namdang23/data_analysis_portfolio/blob/27fd966701b36f1829e9891dab89a55a075c000c/Presentation/MKTG%20607%20-%20Group%203%20-%20Project%20Report.pdf)
+**Report:** [`MKTG 607 - Group 3 - Project Report.pdf`](https://github.com/namdang23/data_analysis_portfolio/blob/27fd966701b36f1829e9891dab89a55a075c000c/Presentation/MKTG%20607%20-%20Group%203%20-%20Project%20Report.pdf)
 
 **Description:** In this project, we conducted a simple A/B testing on the event advertisement emails for CCG. We sent out 2 emails: one uses formal and professional language, and the other contains a more student-like, laid back content. We wanted to know if student's sign-up rate and attendance rate differ between the two email group. Therefore, we used A/B testing, complementary with Bayesian Analysis to intepret our result.   
 
