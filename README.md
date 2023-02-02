@@ -16,7 +16,7 @@ This is a repository to showcase skills, share projects and track my progress in
 	+ [Employee Retention Analysis](#employee-retention-analysis)
 	+ [Loan Predication](#loan-predication)
 	+ [Causes of Accident in California](#causes-of-accident-in-california)
-	+ [A/B Testing for CCG Advertisement](#a/b-testing-for-ccg-advertisement)
+	+ [A/B Testing for CCG Advertisement](#A/B-Testing-for-CCG-Advertisement)
 - [Contacts](#contacts)
 
 ## Portfolio Projects
