@@ -11,7 +11,7 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-	+ [Credit Risk Analytics](#credit-risk-analytics)
+	+ [Credit Risk Analysis](#credit-risk-analysis)
 	+ [Forecasting Amazon Revenue/ Net Income](#forecasting-amazon-revenue-net-income)
 	+ [Employee Retention Analysis](#employee-retention-analysis)
 	+ [Loan Predication](#loan-predication)
@@ -22,7 +22,7 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Credit Risk Analytics
+### Credit Risk Analysis
 **Code:** [`HomeEquity.R`](https://github.com/namdang23/data_analysis_portfolio/blob/00960e672b4b3e297e512ed3aa2f45bca24c8dbe/Project%20code/FinalProject_Group2_HomeEquity.R), [`MortgageLoan.R`](https://github.com/namdang23/data_analysis_portfolio/blob/831b40279df3dd8064fdda46cd7ac84d941f3205/Project%20code/FinalProject_Group2_MortgageLoan.R),
 [`MortgageLoan_DeepLearning`](https://github.com/namdang23/data_analysis_portfolio/blob/831b40279df3dd8064fdda46cd7ac84d941f3205/Project%20code/FinalProject_Group2_MortgageLoan_DeepLearning.ipynb),[`HomeEquity_DeepLearning`](https://github.com/namdang23/data_analysis_portfolio/blob/75d15bc3d086f1019f348d502eab84fb0aefc351/Project%20code/FinalProject_Group2_HomeEquity_DeepLearning.ipynb)
 
